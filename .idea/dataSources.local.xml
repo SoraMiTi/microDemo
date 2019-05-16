@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="jsjd-37" uuid="6e4809f9-0cff-4069-b93f-b03799d9bd08">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="ORACLE" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>jsjd</user-name>
+    </data-source>
+  </component>
+</project>
